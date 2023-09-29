@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1695997414 source:e:\codeblocks\questão_3\pessoa.c
+	"pessoa.h"
+
+1695997414 e:\codeblocks\questão_3\pessoa.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

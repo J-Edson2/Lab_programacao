@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1695996612 source:e:\codeblocks\questão_1\main.c
+	<locale.h>
+	"pilha.h"
+
+1695996700 e:\codeblocks\questão_1\pilha.h
+	<stdio.h>
+	<stdlib.h>
+
+1695996700 source:e:\codeblocks\questão_1\pilha.c
+	"pilha.h"
+

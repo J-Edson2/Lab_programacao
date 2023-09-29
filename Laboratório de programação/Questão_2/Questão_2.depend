@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1695997112 source:e:\codeblocks\questão_2\conjunto.c
+	"conjunto.h"
+
+1695997149 e:\codeblocks\questão_2\conjunto.h
+	<stdio.h>
+	<stdlib.h>
+
+1695997112 source:e:\codeblocks\questão_2\main.c
+	<locale.h>
+	"conjunto.h"
+
